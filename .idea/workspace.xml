@@ -7,42 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc0ca02b-cb4a-4d1f-9730-96a5853004fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/ClientDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/JsonRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/DeleteCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/GetCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/JsonRequestDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/JsonResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/ServerDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/SetCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/client/ClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/client/JsonRequestTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/server/DatabaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/server/JsonResponseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/server/ServerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/server/SessionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/server/data/data.json" afterDir="false" />
-    </list>
+    <list default="true" id="cc0ca02b-cb4a-4d1f-9730-96a5853004fc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +23,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="json_database" />
+                    <option name="lastUsedInstant" value="1692635036" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1692635035" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="2Tl6kd3kT3ifbuTOGALyVMrEzD1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -78,6 +68,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "org.infernus.idea.checkstyle.CheckStyleConfigurable",
     "vue.rearranger.settings.migration": "true"
@@ -186,7 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691605466613</updated>
       <workItem from="1691605467998" duration="35216000" />
-      <workItem from="1692621269278" duration="2574000" />
+      <workItem from="1692621269278" duration="3309000" />
     </task>
     <servers />
   </component>

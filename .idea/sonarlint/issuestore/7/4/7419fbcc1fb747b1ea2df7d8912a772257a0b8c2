@@ -1,0 +1,11 @@
+
+4
+java:S1700"Rename field "database"(Ç¡8Ø°ŞÅ¡1
+]	java:S125c"<This block of commented-out lines of code should be removed.(öÕ¶Ñÿÿÿÿÿ8¯±ŞÅ¡1
+D	java:S108f")Either remove or fill this block of code.(”ã‰G8°±ŞÅ¡1
+Z
+java:S1117l"8Rename "gson" which hides the field declared at line 16.(È™ëûÿÿÿÿ8²±ŞÅ¡1
+G
+java:S1128"*Remove this unused import 'java.nio.file'.(æĞİ¿8Â±ŞÅ¡1
+`
+java:S1128">Remove this unused import 'com.google.gson.reflect.TypeToken'.(İªıñøÿÿÿÿ8Â±ŞÅ¡1
